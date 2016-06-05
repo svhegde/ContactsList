@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="has_two_panes">false</bool>
+    <color name="holo_blue">#FF33B5E5</color>
+    <dimen name="listview_item_padding">16dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <integer name="contact_detail_info_percent">55</integer>
+    <integer name="contact_detail_photo_percent">45</integer>
+    <string name="activity_contact_detail">Contact Detail</string>
+    <string name="activity_contacts_list">Contacts List</string>
+    <string name="address_button_description">View Address</string>
+    <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="app_description">This is a sample app, demonstrating use of the Android system Contacts Provider.</string>
+    <string name="app_name">Contacts List</string>
+    <string name="contacts_list_search_results_title">Contacts List Search for \"%s\"</string>
+    <string name="imageview_description">Contact Thumbnail</string>
+    <string name="menu_add_contact">Add Contact</string>
+    <string name="menu_edit_contact">Edit Contact</string>
+    <string name="menu_search">Search</string>
+    <string name="no_address">No addresses found</string>
+    <string name="no_contact_selected">No Contact Selected</string>
+    <string name="no_contacts">No Contacts Found</string>
+    <string name="no_intent_found">No application found to handle this action</string>
+    <string name="search_hint">Find contacts</string>
+    <string name="search_match_other">Matches Other Field</string>
+    <style name="AppTheme" parent="@android:style/Theme"/>
+    <style name="ContactListView">
+        <item name="android:verticalScrollbarPosition">right</item>
+        <item name="android:fastScrollAlwaysVisible">true</item>
+        <item name="android:scrollbarStyle">outsideInset</item>
+    </style>
+    <style name="addressButton"/>
+    <style name="addressDetail" parent="@android:style/TextAppearance.Medium">
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+    <style name="addressHeader" parent="@android:style/TextAppearance.Small">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="contactNameTitle" parent="@android:style/TextAppearance.Large">
+        <item name="android:textSize">38sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+    <style name="listViewActivatedStyle"/>
+    <style name="quickContactBadgeStyle">
+        <item name="android:background">@drawable/quickcontact_badge_small</item>
+    </style>
+    <style name="searchTextHiglight">
+        <item name="android:textColor">@color/holo_blue</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

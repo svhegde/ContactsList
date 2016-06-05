@@ -1,0 +1,104 @@
+[
+    {
+        "outputFile": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\values-sw600dp\\bools.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 42,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 55,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\values-sw600dp\\integers.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 55,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 53,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\values-sw600dp\\integers.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 53,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 82,
+                    "endOffset": 286
+                },
+                "from": {
+                    "file": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\values-sw600dp\\layout.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 82,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 291,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\values-sw600dp\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 296
+                    }
+                }
+            }
+        ]
+    }
+]

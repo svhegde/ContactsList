@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\values-sw360dp\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 410
+                    }
+                }
+            }
+        ]
+    }
+]

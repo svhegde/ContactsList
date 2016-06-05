@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="has_two_panes">true</bool>
+    <integer name="contact_detail_percent">65</integer>
+    <integer name="contact_list_percent">35</integer>
+    <item name="activity_main" type="layout">@layout/activity_main_twopanes</item>
+    <style name="ContactListView">
+        <item name="android:verticalScrollbarPosition">left</item>
+        <item name="android:fastScrollAlwaysVisible">true</item>
+        <item name="android:scrollbarStyle">outsideInset</item>
+    </style>
+</resources>

@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 69,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 87,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 87,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 42,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 42,
+                        "endOffset": 313
+                    }
+                }
+            }
+        ]
+    }
+]

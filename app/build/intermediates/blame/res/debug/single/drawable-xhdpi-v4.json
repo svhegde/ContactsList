@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_edit.png",
+        "source": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_contact_picture_holo_light.png",
+        "source": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\drawable-xhdpi\\ic_contact_picture_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_contact_picture_180_holo_light.png",
+        "source": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\drawable-xhdpi\\ic_contact_picture_180_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_search.png",
+        "source": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_map.png",
+        "source": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_map.png"
+    },
+    {
+        "merged": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_add.png",
+        "source": "C:\\Users\\sushal\\Workspace\\Work\\ContactsList\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_add.png"
+    }
+]
